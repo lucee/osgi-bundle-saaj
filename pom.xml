@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.lucee</groupId>
   <artifactId>saaj</artifactId>
-  <version>1.2.1</version>
+  <version>1.4.0</version>
   <name>SAAJ</name>
   <packaging>bundle</packaging>
 
@@ -92,7 +92,7 @@
                  <artifactItem>
                    <groupId>axis</groupId>
                     <artifactId>axis-saaj</artifactId>
-                    <version>1.2.1</version>
+                    <version>1.4</version>
                    <type>jar</type>
                    <overWrite>false</overWrite>
                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
