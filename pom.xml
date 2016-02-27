@@ -11,7 +11,11 @@
 
   <!-- same license as the original jar -->
   <licenses>
-
+    <license>
+      <name>GNU GENERAL PUBLIC LICENSE Version 2</name>
+      <url>http://www.gnu.org/licenses/gpl-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
   </licenses>
 
   <developers>
